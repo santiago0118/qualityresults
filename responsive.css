@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width:768px){
+@media (max-width:800px){
 
       .cuadro {
     width: 280px;
@@ -23,6 +23,7 @@
   .posterior {
     font-size: 12px;
   }
+
 
 
 
