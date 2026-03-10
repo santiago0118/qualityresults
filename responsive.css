@@ -12,4 +12,17 @@
   }
 }
 
+@media (max-width:768px){
+
+      .cuadro {
+    width: 280px;
+    height: 280px;
+  }
+
+
+  .posterior {
+    font-size: 12px;
+  }
+
+
 
