@@ -1,27 +1,31 @@
 @media (max-width:1400px){
+
       .cuadro {
     width: 300px;
     height: 300px;
   }
-        h2 {
+
+  h2 {
     font-size: 25px;
 }
 
   .posterior {
     font-size: 13px;
   }
+
 }
 
 @media (max-width:800px){
 
       .cuadro {
-    width: 270px;
-    height: 270px;
+    width: 280px;
+    height: 280px;
   }
+
+
   .posterior {
     font-size: 12px;
   }
+
 }
-
-
 
