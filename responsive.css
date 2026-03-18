@@ -18,6 +18,7 @@
     padding-left: 20px;
   }
 
+
 }
 
 @media (min-width: 1025px) and (max-width:1200px){
@@ -42,6 +43,7 @@
 
   #carrusel{
     height: 600px;
+    margin-top: 40px;
 }
 
 .texto{
@@ -60,7 +62,7 @@
 
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2 {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .cuadrosoluciones h2 {
@@ -100,7 +102,8 @@
   }
 
   #carrusel{
-    height: 550px;
+    height: 500px;
+     margin-top: 20px;
 }
 
 .texto{
@@ -119,7 +122,7 @@
 
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2 {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .cuadrosoluciones h2 {
@@ -150,7 +153,7 @@
 }
 
   .posterior {
-    font-size: 9px;
+    font-size: 8.5px;
   }
 
    .posterior ul {
@@ -159,7 +162,8 @@
   }
 
   #carrusel{
-    height: 400px;
+    height:400px;
+     margin-top: 10px;
 }
 
 .texto{
@@ -178,7 +182,7 @@
 
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2 {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .cuadrosoluciones h2 {
@@ -209,7 +213,7 @@
 }
 
   .posterior {
-    font-size: 8px;
+    font-size: 7.5px;
   }
 
    .posterior ul {
@@ -219,6 +223,7 @@
 
   #carrusel{
     height: 350px;
+     margin-top: 5px;
 }
 
 .texto{
@@ -237,7 +242,7 @@
 
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2 {
-    font-size: 9px;
+    font-size: 10px;
 }
 
 .cuadrosoluciones h2 {
