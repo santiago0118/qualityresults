@@ -10,7 +10,12 @@
 }
 
   .posterior {
-    font-size: 13px;
+    font-size: 14px;
+  }
+
+  .posterior ul {
+    padding-right:20px;
+    padding-left: 20px;
   }
 
 }
@@ -27,7 +32,12 @@
 }
 
   .posterior {
-    font-size: 11.5px;
+    font-size: 12.5px;
+  }
+
+    .posterior ul {
+    padding-right:15px;
+    padding-left: 15px;
   }
 
   #carrusel{
@@ -81,7 +91,12 @@
 }
 
   .posterior {
-    font-size: 10px;
+    font-size: 11.5px;
+  }
+
+   .posterior ul {
+    padding-right:10px;
+    padding-left: 10px;
   }
 
   #carrusel{
@@ -135,7 +150,12 @@
 }
 
   .posterior {
-    font-size: 7px;
+    font-size: 9px;
+  }
+
+   .posterior ul {
+    padding-right:10px;
+    padding-left: 10px;
   }
 
   #carrusel{
@@ -189,7 +209,12 @@
 }
 
   .posterior {
-    font-size: 6px;
+    font-size: 8px;
+  }
+
+   .posterior ul {
+    padding-right:9px;
+    padding-left: 9px;
   }
 
   #carrusel{
