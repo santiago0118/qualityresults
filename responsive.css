@@ -263,9 +263,17 @@
 
 @media (max-width:767px){
 
+ .contenedor {
+
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas */
+    gap: 10px; /* espacio entre cuadros */
+    padding: 10px;
+ 
+  }
+
   .cuadro {
-    width: 170px;
-    height: 170px;
+    width: 200px;
+    height: 200px;
   }
 
   h2 {
@@ -273,26 +281,33 @@
 }
 
   .posterior {
-    font-size: 6px;
+    font-size: 10px;
   }
 
   #carrusel{
-    height: 350px;
+    height: 250px;
+     margin-top: 0px;
 }
 
 .texto{
-  font-size: 30px;
+  font-size: 15px;
+  padding-top: 30px;
+  padding-bottom: 120px;
+  padding-left: 50px;
 }
 
   .imagen img{
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 
 #caja1, #caja2, #caja3, #caja4{
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+  margin-left: 220px;
 }
+
 
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2 {
@@ -313,5 +328,17 @@
   width: 80px;
 }
 
-}
+ .contenedor-acordeon {
+        display: grid;
+        grid-template-columns:1fr; /* dos columnas */
+        gap: 2%;
+        max-width: 100%;
+        margin: 0 auto;
+        text-align: center; /* que el texto no quede centrado */
+        padding-left: 2%;
+        padding-right: 2%;
+      }
+
+    }
+
 
