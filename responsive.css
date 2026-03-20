@@ -223,8 +223,13 @@
     font-size: 14px;
 }
 
-  .posterior {
-    font-size: 10px;
+ .posterior {
+    font-size: 8px;
+  }
+
+   .posterior ul {
+    padding-right:10px;
+    padding-left: 10px;
   }
 
   #carrusel{
