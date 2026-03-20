@@ -36,6 +36,7 @@ header{
 .logo{
     float:left;
     margin: 1%;
+    width: 200px;
 }
 
 #menu{
@@ -286,7 +287,6 @@ header{
     transition: transform 0.3s ease;
   }
 
-/* Contenedor general */
 .contenedorsoluciones {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -296,7 +296,6 @@ header{
     margin: 0 auto;
 }
 
-/* Cada cuadro */
 .cuadrosoluciones {
     background-color: #FFD900;
     padding: 20px;
@@ -304,21 +303,18 @@ header{
     flex-direction: column;
 }
 
-/* Títulos */
 .cuadrosoluciones h2 {
     margin: 0 0 20px 0;
     color: #40444C;
     font-size: 30px;
 }
 
-/* Nueva fila interna para icono + texto */
 .filasolucion {
     display: flex;
     align-items: center;
     gap: 20px;
 }
 
-/* Íconos */
 .cuadrosoluciones .icono1,
 .cuadrosoluciones .icono2 {
     width: 210px;
