@@ -66,18 +66,30 @@
 }
 
 .cuadrosoluciones h2 {
-    font-size: 28px;
+    font-size: 20px;
 }
 
-.cuadrosoluciones .icono1,
-.cuadrosoluciones .icono2,
-.cuadrosoluciones .icono3 {
+.cuadrosoluciones .icono1 {
     width: 180px;
     height: 180px;
 }
 
+.cuadrosoluciones .icono2 {
+    width: 160px;
+    height: 160px;
+}
+
+.cuadrosoluciones .icono3 {
+    width: 200px;
+    height: 140px;
+}
+
 .icono {
   width: 120px;
+}
+
+#fastest {
+  font-size: 28px;
 }
 
 }
@@ -128,14 +140,26 @@
 }
 
 .cuadrosoluciones h2 {
-    font-size: 24px;
+    font-size: 16px;
 }
 
-.cuadrosoluciones .icono1,
-.cuadrosoluciones .icono2,
-.cuadrosoluciones .icono3 {
+.cuadrosoluciones .icono1 {
     width: 160px;
     height: 160px;
+}
+
+.cuadrosoluciones .icono2 {
+    width: 140px;
+    height: 140px;
+}
+
+.cuadrosoluciones .icono3  {
+    width: 200px;
+    height: 100px;
+}
+
+#fastest {
+  font-size: 22px;
 }
 
 .icono {
@@ -144,7 +168,7 @@
 
 }
 
-@media (min-width: 769px) and (max-width:865px){
+@media (min-width: 768px) and (max-width:865px){
 
   .cuadro {
     width: 180px;
@@ -190,18 +214,26 @@
 }
 
 .cuadrosoluciones h2 {
-    font-size: 20px;
+    font-size: 15px;
 }
 
-.cuadrosoluciones .icono1,
-.cuadrosoluciones .icono2,
-.cuadrosoluciones .icono3 {
+.cuadrosoluciones .icono1 {
+    width: 150px;
+    height: 150px;
+}
+
+.cuadrosoluciones .icono2 {
     width: 120px;
     height: 120px;
 }
 
+.cuadrosoluciones .icono3 {
+    width: 200px;
+    height: 100px;
+}
+
 #fastest {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .icono {
