@@ -200,6 +200,10 @@
     height: 120px;
 }
 
+#fastest {
+  font-size: 30px;
+}
+
 .icono {
   width: 90px;
 }
@@ -292,24 +296,28 @@
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2,
 .cuadrosoluciones .textosoluciones3 {
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .cuadrosoluciones h2 {
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .cuadrosoluciones .icono1,
-.cuadrosoluciones .icono2,
+.cuadrosoluciones .icono2
+{
+    width: 200px;
+    height: 200px;
+}
+
 .cuadrosoluciones .icono3 {
-    width: 150px;
+    width: 300px;
     height: 150px;
 }
 
 #fastest {
-  font-size: 25px;
+  font-size: 30px;
 }
-
 .icono {
   width: 80px;
 }
