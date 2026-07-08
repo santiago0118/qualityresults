@@ -292,7 +292,7 @@
 .cuadrosoluciones .textosoluciones1,
 .cuadrosoluciones .textosoluciones2,
 .cuadrosoluciones .textosoluciones3 {
-    font-size: 9px;
+    font-size: 12px;
 }
 
 .cuadrosoluciones h2 {
@@ -302,8 +302,12 @@
 .cuadrosoluciones .icono1,
 .cuadrosoluciones .icono2,
 .cuadrosoluciones .icono3 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+#fastest {
+  font-size: 25px;
 }
 
 .icono {
